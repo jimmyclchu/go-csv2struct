@@ -101,7 +101,7 @@ func main() {
 
 ## Testing
 ```sh
-go test .
+go test ./...
 ```
 
 ## License
